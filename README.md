@@ -1,4 +1,4 @@
-# OrangeHRM Test Automation
+# OrangeHRM Test Automation [![OrangeHRM Test Automation](https://github.com/jatin93/orangehrm-test-automation-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/jatin93/orangehrm-test-automation-platform/actions/workflows/ci.yml)
 
 Playwright + TypeScript automation framework for [OrangeHRM](https://opensource-demo.orangehrmlive.com/).
 
